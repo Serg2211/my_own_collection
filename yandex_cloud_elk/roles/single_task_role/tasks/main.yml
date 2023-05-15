@@ -1,0 +1,6 @@
+---
+# tasks file for single_task_role
+- name: Call my_own_module
+  my_own_module:
+    path: './test_file.txt'
+    content: "Module work"

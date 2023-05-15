@@ -1,0 +1,4 @@
+---
+# defaults file for single_task_role
+path: './test_file.txt'
+content: "Module work"

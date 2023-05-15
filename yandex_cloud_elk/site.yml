@@ -1,0 +1,6 @@
+---
+- name: Test module
+  hosts: localhost
+  roles:
+  - single_task_role
+
